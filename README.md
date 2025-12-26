@@ -1,0 +1,1 @@
+Agentic AI Swiggy Trend Analysis System

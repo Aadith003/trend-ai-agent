@@ -1,0 +1,5 @@
+google-play-scraper
+sentence-transformers
+faiss-cpu
+openai
+pandas
